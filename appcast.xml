@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LockIME</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 10 Jun 2026 10:22:54 +0000</pubDate>
+            <sparkle:version>202606101021</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.0.0/LockIME-1.0.0.zip" length="4978471" type="application/octet-stream" sparkle:edSignature="p2bH3bUrrmlkLn00Aone6QwE4nA31QWBTm6lDp2mzU/zKtz1AYjPC5ql7MSrXYqoe9Y5tEb8yPq1+UACSiPvDA=="/>
+        </item>
+    </channel>
+</rss>
