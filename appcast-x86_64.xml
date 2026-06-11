@@ -3,6 +3,22 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.1.0-beta.1</title>
+            <pubDate>Thu, 11 Jun 2026 01:59:45 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202606110157</sparkle:version>
+            <sparkle:shortVersionString>1.1.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+
+* docs(readme): ship translations for all 9 app languages ([`8a6ef76`](https://github.com/oomol-lab/LockIME/commit/8a6ef767be63d4519a48280239df191d2c337119))
+* fix(release): link commit hashes in fallback release notes ([`fdc6e90`](https://github.com/oomol-lab/LockIME/commit/fdc6e9072a5938142f76ad367e414d8433263f3e))
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.1.0...v1.1.0-beta.1
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.1.0-beta.1/LockIME-1.1.0-beta.1-x86_64.zip" length="4678540" type="application/octet-stream" sparkle:edSignature="5C1XYUIsknQthCFe01eA2CcmJ5NLjIlqmuvmTXCQqxxpO4XPTt+mzXvWdqiEmJCezDMor485XMFNRQH9ZbdMDQ=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Thu, 11 Jun 2026 00:12:42 +0000</pubDate>
             <sparkle:version>202606110010</sparkle:version>
