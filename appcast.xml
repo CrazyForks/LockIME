@@ -3,6 +3,23 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 11 Jun 2026 00:12:42 +0000</pubDate>
+            <sparkle:version>202606110010</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+
+* fix(release): embed update notes as markdown, not HTML (`2d738ea`)
+* docs(readme): add shields.io badges, center header (`3daa2bf`)
+* feat: support macOS 14+ and Intel Macs via per-arch builds (`4f28942`)
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.0.2...v1.1.0
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.1.0/LockIME-1.1.0-arm64.zip" length="4545923" type="application/octet-stream" sparkle:edSignature="yh1oaQfcqO2oOydafJgpdpaR9aPGOHitfVF1z82yyn3wZhmV8eGRS/xLsJPkskwQASAsT0JbNan93s7Lb0Z7BA=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Wed, 10 Jun 2026 12:58:57 +0000</pubDate>
             <sparkle:version>202606101257</sparkle:version>
