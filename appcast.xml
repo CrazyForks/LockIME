@@ -3,6 +3,24 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.1.1-beta.1</title>
+            <pubDate>Thu, 11 Jun 2026 14:15:23 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202606111413</sparkle:version>
+            <sparkle:shortVersionString>1.1.1-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+* fix(stats): stop activation count resetting on every launch by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/4
+* refactor(tray): drop product name from About and Quit items by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/5
+* feat(tray): switch the locked input source from the menu by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/6
+
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.1.0-beta.2...v1.1.1-beta.1
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.1.1-beta.1/LockIME-1.1.1-beta.1-arm64.zip" length="4502107" type="application/octet-stream" sparkle:edSignature="4AmdPaRF8xi1NoGFe1imXNGYjLSxrN2izmQHzqgQHfIKcy9GouxUrHFeY9T+Z6LNtCbe6QzRGIsTWOR8ezTACA=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Thu, 11 Jun 2026 09:10:43 +0000</pubDate>
             <sparkle:version>202606110908</sparkle:version>
