@@ -3,6 +3,22 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.2.0-beta.1</title>
+            <pubDate>Fri, 12 Jun 2026 01:57:55 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202606120155</sparkle:version>
+            <sparkle:shortVersionString>1.2.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+* feat(shortcuts): add prev/next and per-app rule shortcuts by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/7
+
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.1.1-beta.1...v1.2.0-beta.1
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.0-beta.1/LockIME-1.2.0-beta.1-arm64.zip" length="4507477" type="application/octet-stream" sparkle:edSignature="DF3s1ZwHJABAKagmsZKuZ81A3evojXPW9r+3eI6vN1Inb63sP3J1jikM2MBpTD9Xno9yrh9j6SdByUPaWge+Bg=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Thu, 11 Jun 2026 15:24:02 +0000</pubDate>
             <sparkle:version>202606111521</sparkle:version>
