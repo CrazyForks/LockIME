@@ -3,6 +3,22 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.2.0-beta.2</title>
+            <pubDate>Fri, 12 Jun 2026 03:43:14 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202606120341</sparkle:version>
+            <sparkle:shortVersionString>1.2.0-beta.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+* fix(appicon): inset icons onto the macOS grid for size parity by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/8
+
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.2.0-beta.1...v1.2.0-beta.2
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.0-beta.2/LockIME-1.2.0-beta.2-arm64.zip" length="3621078" type="application/octet-stream" sparkle:edSignature="1+WKxssOuF+7l2Isq+EVtv/4IMSdg8nJ2BV1+o0UtTZwgcstL0ymwZU+k02LN/Vi7xRAnXXde0zID/R6QV0ABA=="/>
+        </item>
+        <item>
             <title>1.2.0-beta.1</title>
             <pubDate>Fri, 12 Jun 2026 01:57:55 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
