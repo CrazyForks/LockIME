@@ -3,6 +3,21 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Fri, 12 Jun 2026 09:25:50 +0000</pubDate>
+            <sparkle:version>202606120924</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+* test: add CI-safe unit coverage across LockIMEKit by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/10
+* feat(lock): detect Spotlight and launcher overlays for rules by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/11
+
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.2.1...v1.2.2
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.2/LockIME-1.2.2-x86_64.zip" length="3774506" type="application/octet-stream" sparkle:edSignature="grlOhnHlv2jOeQZ0xtCOtjm5pKu/0ZLjaAfKi/opvqxP97uuEmuy7oCwOdz/RxLOQ6vD95I6oxUmQcY4wxvuAA=="/>
+        </item>
+        <item>
             <title>1.2.1-beta.1</title>
             <pubDate>Fri, 12 Jun 2026 09:13:56 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -34,21 +49,6 @@
             <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.1/LockIME-1.2.1-x86_64.zip" length="3752651" type="application/octet-stream" sparkle:edSignature="jp2ub58LlxN/FR4e2/3//ZiDuMa0ioDaLZ1PoYF1lyn3eJMno9wb7WSA0V7PkuMa6vOj0Ytps+Zd8qP0ZFYSCg=="/>
         </item>
         <item>
-            <title>1.2.0-beta.2</title>
-            <pubDate>Fri, 12 Jun 2026 03:43:14 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>202606120341</sparkle:version>
-            <sparkle:shortVersionString>1.2.0-beta.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's Changed
-* fix(appicon): inset icons onto the macOS grid for size parity by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/8
-
-
-**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.2.0-beta.1...v1.2.0-beta.2
-]]></description>
-            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.0-beta.2/LockIME-1.2.0-beta.2-x86_64.zip" length="3752644" type="application/octet-stream" sparkle:edSignature="nPzL+5LE0lUwyOu/ECCKyMNfdguv4sitk0A70rcCe1OqvL14cU7z3NYIEUsKlG5Un8hFkUDVH0CCOasm3Z4gCw=="/>
-        </item>
-        <item>
             <title>1.2.0</title>
             <pubDate>Thu, 11 Jun 2026 15:24:02 +0000</pubDate>
             <sparkle:version>202606111521</sparkle:version>
@@ -63,29 +63,6 @@
 **Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.1.1...v1.2.0
 ]]></description>
             <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.0/LockIME-1.2.0-x86_64.zip" length="4632502" type="application/octet-stream" sparkle:edSignature="tkNrjnBN2ROQ95u77a7LdbdW/RMZoFElAvG2l4peZQnzU6qqjU+aLMASBuH74SFdmKCwV3TQ1TC2l3DGRtsVBg=="/>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Thu, 11 Jun 2026 09:10:43 +0000</pubDate>
-            <sparkle:version>202606110908</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's Changed
-* fix(appicon): mask shipped icons for older macOS by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/2
-* fix(lock): stop CJKV nudge from resetting the mouse pointer by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/3
-
-* docs(readme): ship translations for all 9 app languages ([`8a6ef76`](https://github.com/oomol-lab/LockIME/commit/8a6ef767be63d4519a48280239df191d2c337119))
-* fix(release): link commit hashes in fallback release notes ([`fdc6e90`](https://github.com/oomol-lab/LockIME/commit/fdc6e9072a5938142f76ad367e414d8433263f3e))
-* feat: add Homebrew install via custom tap cask ([`fcd6e6c`](https://github.com/oomol-lab/LockIME/commit/fcd6e6cbbf08dd39ddfdc061486215bffbfe3adc))
-* ci(release): always list direct-push commits in release notes ([`1ac2d8b`](https://github.com/oomol-lab/LockIME/commit/1ac2d8bb8e66866f476503f0effc7e77af667761))
-* docs(readme): center the title and add the app icon ([`a2388fd`](https://github.com/oomol-lab/LockIME/commit/a2388fd2370ebd01673e1f416b3fc697a2f353b6))
-
-## New Contributors
-* @BlackHole1 made their first contribution in https://github.com/oomol-lab/LockIME/pull/2
-
-**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.1.0...v1.1.1
-]]></description>
-            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.1.1/LockIME-1.1.1-x86_64.zip" length="4628379" type="application/octet-stream" sparkle:edSignature="HDBKAmJpyMse9gAV2ew7p4OKk2yrD3QgqPBBiXcqIcLjYRqA8tPG5S02ZvlaWlqQm+B2t2JaNKCMm6yC5OCXBA=="/>
         </item>
     </channel>
 </rss>
