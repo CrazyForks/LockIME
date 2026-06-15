@@ -3,6 +3,23 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.2.2-beta.3</title>
+            <pubDate>Mon, 15 Jun 2026 09:18:36 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202606150916</sparkle:version>
+            <sparkle:shortVersionString>1.2.2-beta.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+* build(dmg): shrink download by trimming icon slot and using ULFO by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/19
+* refactor(update): render release notes natively, dropping MarkdownUI by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/21
+* feat(rules): add one-shot switch action for app/URL rules by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/22
+
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.2.2-beta.2...v1.2.2-beta.3
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.2-beta.3/LockIME-1.2.2-beta.3-x86_64.zip" length="2482370" type="application/octet-stream" sparkle:edSignature="ikOKuk27ZmLPH+C5TAs8u5o9QmzjtPYHhmtYguHLPJiw4dOTKCqEEeyF4qz/B8ZgFf2ARP5FGtEl+Lqfzq7OCQ=="/>
+        </item>
+        <item>
             <title>1.2.2-beta.2</title>
             <pubDate>Mon, 15 Jun 2026 04:28:12 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -52,22 +69,6 @@
 **Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.2.1...v1.2.2
 ]]></description>
             <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.2/LockIME-1.2.2-x86_64.zip" length="3774506" type="application/octet-stream" sparkle:edSignature="grlOhnHlv2jOeQZ0xtCOtjm5pKu/0ZLjaAfKi/opvqxP97uuEmuy7oCwOdz/RxLOQ6vD95I6oxUmQcY4wxvuAA=="/>
-        </item>
-        <item>
-            <title>1.2.1-beta.1</title>
-            <pubDate>Fri, 12 Jun 2026 09:13:56 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>202606120912</sparkle:version>
-            <sparkle:shortVersionString>1.2.1-beta.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's Changed
-* test: add CI-safe unit coverage across LockIMEKit by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/10
-* feat(lock): detect Spotlight and launcher overlays for rules by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/11
-
-
-**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.2.0-beta.2...v1.2.1-beta.1
-]]></description>
-            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.1-beta.1/LockIME-1.2.1-beta.1-x86_64.zip" length="3774516" type="application/octet-stream" sparkle:edSignature="h1xx16Rfm/Z82YZqPZzji9U3CsM/1H3LOPg18RsHNZsQZqzVooeh0xCxTzVmN8yQt2NtIkNLaIq+at36FVYQAA=="/>
         </item>
         <item>
             <title>1.2.1</title>
