@@ -3,6 +3,22 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.3.0-beta.3</title>
+            <pubDate>Tue, 16 Jun 2026 23:26:57 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202606162325</sparkle:version>
+            <sparkle:shortVersionString>1.3.0-beta.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+* feat(rules): add URL match types and drag-to-reorder priority by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/26
+
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.3.0-beta.2...v1.3.0-beta.3
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.3.0-beta.3/LockIME-1.3.0-beta.3-arm64.zip" length="2465150" type="application/octet-stream" sparkle:edSignature="+GcivEdGynR1q6zi+murYsQzPO1VNKVim3b3NhefDZUO3PtwA5WvYyEbx9jPDeyrzMZu+0Wd78B1ugeRaL1XBw=="/>
+        </item>
+        <item>
             <title>1.3.0-beta.2</title>
             <pubDate>Tue, 16 Jun 2026 05:36:39 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
@@ -59,24 +75,6 @@
 **Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.2.2...v1.3.0
 ]]></description>
             <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.3.0/LockIME-1.3.0-arm64.zip" length="2376772" type="application/octet-stream" sparkle:edSignature="B5TV26VCeVd1kH3i5l0mpzUxPN5XN0giEfLePp00D1cYxl3uX5POuBMUnAm6T0t26Fxu+1XkpqsEODKnJMUSDA=="/>
-        </item>
-        <item>
-            <title>1.2.2-beta.3</title>
-            <pubDate>Mon, 15 Jun 2026 09:18:36 +0000</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>202606150916</sparkle:version>
-            <sparkle:shortVersionString>1.2.2-beta.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[## What's Changed
-* build(dmg): shrink download by trimming icon slot and using ULFO by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/19
-* refactor(update): render release notes natively, dropping MarkdownUI by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/21
-* feat(rules): add one-shot switch action for app/URL rules by @BlackHole1 in https://github.com/oomol-lab/LockIME/pull/22
-
-
-**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.2.2-beta.2...v1.2.2-beta.3
-]]></description>
-            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.2.2-beta.3/LockIME-1.2.2-beta.3-arm64.zip" length="2376787" type="application/octet-stream" sparkle:edSignature="Gz/h3gbSBwkvIvhp5gOeqD1JJTb8213MZ839WP09Sc+eqzGzbmHy18BuCcHy7dG5JX4/HDoc4rBOi/asnP+4Bg=="/>
         </item>
         <item>
             <title>1.2.2</title>
