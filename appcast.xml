@@ -3,6 +3,21 @@
     <channel>
         <title>LockIME</title>
         <item>
+            <title>1.4.0-beta.1</title>
+            <pubDate>Wed, 17 Jun 2026 01:59:39 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202606170157</sparkle:version>
+            <sparkle:shortVersionString>1.4.0-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## What's Changed
+* docs(readme): regenerate settings screenshots for new UI ([`ec25adc`](https://github.com/oomol-lab/LockIME/commit/ec25adc2b427128c02b427d6d1d02f0e7f6bd47e))
+
+**Full Changelog**: https://github.com/oomol-lab/LockIME/compare/v1.3.0-beta.3...v1.4.0-beta.1
+]]></description>
+            <enclosure url="https://github.com/oomol-lab/LockIME/releases/download/v1.4.0-beta.1/LockIME-1.4.0-beta.1-arm64.zip" length="2465154" type="application/octet-stream" sparkle:edSignature="pB/NfCHyt3FFviJD6N2j5da9r/blf21Y6tB/oIuwlsK1Th3yBFc3EoeGcWrhOuSME1l/derZx00ch0PttrywAg=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Tue, 16 Jun 2026 23:30:49 +0000</pubDate>
             <sparkle:version>202606162328</sparkle:version>
